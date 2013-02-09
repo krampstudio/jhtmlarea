@@ -1,7 +1,6 @@
 {
 	"name" : "jhtmlarea",
 	"version" : "0.7.5",
-	"main" : ["scripts/jhtmlarea.js", "style/*"],
 	"dependencies" : {
 		"jquery" : ">=1.3.2",
 		"jquery-ui" : ">=1.7.2"
